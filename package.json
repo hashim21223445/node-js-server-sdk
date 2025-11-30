@@ -45,7 +45,7 @@
     "@types/useragent": "^2.3.1",
     "@types/uuid": "^8.3.4",
     "@types/whatwg-fetch": "^0.0.33",
-    "@typescript-eslint/eslint-plugin": "^8.45.0",
+    "@typescript-eslint/eslint-plugin": "^8.46.3",
     "@typescript-eslint/parser": "^8.46.3",
     "babel-jest": "^29.7.0",
     "eslint": "^9.0.0",
