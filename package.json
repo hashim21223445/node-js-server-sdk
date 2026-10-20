@@ -31,7 +31,7 @@
     "ip3country": "^5.0.1",
     "node-fetch": "^2.6.13",
     "ua-parser-js": "^1.0.2",
-    "uuid": "^8.3.2"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.28.3",
